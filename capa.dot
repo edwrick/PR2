@@ -1,0 +1,174 @@
+digraph G {
+  
+  node [shape=record];
+
+ M00 [label = "Matriz" ,group=a];
+
+ node7Y0 [label = "7",group=X7];
+
+ node8Y0 [label = "8",group=X8];
+
+ node9Y0 [label = "9",group=X9];
+
+ node14Y0 [label = "14",group=X14];
+
+ node15Y0 [label = "15",group=X15];
+
+ node16Y0 [label = "16",group=X16];
+{rank=same;M00;node7Y0;node8Y0;node9Y0;node14Y0;node15Y0;node16Y0;}M00 -> node7Y0
+ node7Y0  -> node8Y0 
+ node8Y0  -> node7Y0 
+ node8Y0  -> node9Y0 
+ node9Y0  -> node8Y0 
+ node9Y0  -> node14Y0 
+ node14Y0  -> node9Y0 
+ node14Y0  -> node15Y0 
+ node15Y0  -> node14Y0 
+ node15Y0  -> node16Y0 
+ node16Y0  -> node15Y0 
+ node0Y4[label = "4",group=a];
+
+ node0Y5[label = "5",group=a];
+
+ node0Y6[label = "6",group=a];
+
+ node0Y10[label = "10",group=a];
+
+ node0Y11[label = "11",group=a];
+
+ node0Y12[label = "12",group=a];
+node0Y4 -> node0Y5 -> node0Y6 -> node0Y10 -> node0Y11 -> node0Y12
+ node9Y4[label = "X:9,Y:4",group=X9];
+
+ node14Y4[label = "X:14,Y:4",group=X14];
+{rank=same;node0Y4;node9Y4;node14Y4;}
+ node0Y4 -> node9Y4
+ node9Y4 -> node14Y4
+ node14Y4 -> node9Y4
+ node8Y5[label = "X:8,Y:5",group=X8];
+
+ node9Y5[label = "X:9,Y:5",group=X9];
+
+ node14Y5[label = "X:14,Y:5",group=X14];
+
+ node15Y5[label = "X:15,Y:5",group=X15];
+{rank=same;node0Y5;node8Y5;node9Y5;node14Y5;node15Y5;}
+ node0Y5 -> node8Y5
+ node8Y5 -> node9Y5
+ node9Y5 -> node8Y5
+ node9Y5 -> node14Y5
+ node14Y5 -> node9Y5
+ node14Y5 -> node15Y5
+ node15Y5 -> node14Y5
+ node7Y6[label = "X:7,Y:6",group=X7];
+
+ node8Y6[label = "X:8,Y:6",group=X8];
+
+ node9Y6[label = "X:9,Y:6",group=X9];
+
+ node14Y6[label = "X:14,Y:6",group=X14];
+
+ node15Y6[label = "X:15,Y:6",group=X15];
+
+ node16Y6[label = "X:16,Y:6",group=X16];
+{rank=same;node0Y6;node7Y6;node8Y6;node9Y6;node14Y6;node15Y6;node16Y6;}
+ node0Y6 -> node7Y6
+ node7Y6 -> node8Y6
+ node8Y6 -> node7Y6
+ node8Y6 -> node9Y6
+ node9Y6 -> node8Y6
+ node9Y6 -> node14Y6
+ node14Y6 -> node9Y6
+ node14Y6 -> node15Y6
+ node15Y6 -> node14Y6
+ node15Y6 -> node16Y6
+ node16Y6 -> node15Y6
+ node7Y10[label = "X:7,Y:10",group=X7];
+
+ node8Y10[label = "X:8,Y:10",group=X8];
+
+ node9Y10[label = "X:9,Y:10",group=X9];
+
+ node14Y10[label = "X:14,Y:10",group=X14];
+
+ node15Y10[label = "X:15,Y:10",group=X15];
+
+ node16Y10[label = "X:16,Y:10",group=X16];
+{rank=same;node0Y10;node7Y10;node8Y10;node9Y10;node14Y10;node15Y10;node16Y10;}
+ node0Y10 -> node7Y10
+ node7Y10 -> node8Y10
+ node8Y10 -> node7Y10
+ node8Y10 -> node9Y10
+ node9Y10 -> node8Y10
+ node9Y10 -> node14Y10
+ node14Y10 -> node9Y10
+ node14Y10 -> node15Y10
+ node15Y10 -> node14Y10
+ node15Y10 -> node16Y10
+ node16Y10 -> node15Y10
+ node8Y11[label = "X:8,Y:11",group=X8];
+
+ node9Y11[label = "X:9,Y:11",group=X9];
+
+ node14Y11[label = "X:14,Y:11",group=X14];
+
+ node15Y11[label = "X:15,Y:11",group=X15];
+{rank=same;node0Y11;node8Y11;node9Y11;node14Y11;node15Y11;}
+ node0Y11 -> node8Y11
+ node8Y11 -> node9Y11
+ node9Y11 -> node8Y11
+ node9Y11 -> node14Y11
+ node14Y11 -> node9Y11
+ node14Y11 -> node15Y11
+ node15Y11 -> node14Y11
+ node9Y12[label = "X:9,Y:12",group=X9];
+
+ node14Y12[label = "X:14,Y:12",group=X14];
+{rank=same;node0Y12;node9Y12;node14Y12;}
+ node0Y12 -> node9Y12
+ node9Y12 -> node14Y12
+ node14Y12 -> node9Y12
+ M00 -> 
+ node0Y4
+ node7Y0 -> node7Y6
+ node7Y6 -> node7Y10
+ node7Y10 -> node7Y6
+ node8Y0 -> node8Y5
+ node8Y5 -> node8Y6
+ node8Y6 -> node8Y5
+ node8Y6 -> node8Y10
+ node8Y10 -> node8Y6
+ node8Y10 -> node8Y11
+ node8Y11 -> node8Y10
+ node9Y0 -> node9Y4
+ node9Y4 -> node9Y5
+ node9Y5 -> node9Y4
+ node9Y5 -> node9Y6
+ node9Y6 -> node9Y5
+ node9Y6 -> node9Y10
+ node9Y10 -> node9Y6
+ node9Y10 -> node9Y11
+ node9Y11 -> node9Y10
+ node9Y11 -> node9Y12
+ node9Y12 -> node9Y11
+ node14Y0 -> node14Y4
+ node14Y4 -> node14Y5
+ node14Y5 -> node14Y4
+ node14Y5 -> node14Y6
+ node14Y6 -> node14Y5
+ node14Y6 -> node14Y10
+ node14Y10 -> node14Y6
+ node14Y10 -> node14Y11
+ node14Y11 -> node14Y10
+ node14Y11 -> node14Y12
+ node14Y12 -> node14Y11
+ node15Y0 -> node15Y5
+ node15Y5 -> node15Y6
+ node15Y6 -> node15Y5
+ node15Y6 -> node15Y10
+ node15Y10 -> node15Y6
+ node15Y10 -> node15Y11
+ node15Y11 -> node15Y10
+ node16Y0 -> node16Y6
+ node16Y6 -> node16Y10
+ node16Y10 -> node16Y6}

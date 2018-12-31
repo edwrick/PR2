@@ -1,0 +1,26 @@
+digraph G {
+  
+  node [style = filled];
+
+ rankdir=TB;
+n21[label="Id:21Vida:0PosX:14PosY:1"]
+n21->n10
+n10[label="Id:10Vida:0PosX:3PosY:3"]
+n10->n5
+n5[label="Id:5Vida:0PosX:15PosY:1"]
+n5->n3
+n5->nFake5[style="invis"]
+nFake5[label="W", style="invis"];
+n3[label="Id:3Vida:0PosX:7PosY:6"]
+n10->n15
+n15[label="Id:15Vida:0PosX:14PosY:2"]
+n15->n14
+n15->nFake15[style="invis"]
+nFake15[label="W", style="invis"];
+n14[label="Id:14Vida:0PosX:15PosY:3"]
+n21->n22
+n22[label="Id:22Vida:0PosX:15PosY:2"]
+n22->nFake22[style="invis"]
+nFake22[label="W", style="invis"];
+n22->n25
+n25[label="Id:25Vida:0PosX:15PosY:4"]}

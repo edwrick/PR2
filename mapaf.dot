@@ -1,0 +1,1201 @@
+digraph G {
+ nodesep=0; 
+  node [shape=record,width=2,style = filled];
+
+ node1Y1 [label="",group=X1,color=chocolate];
+
+ node2Y1 [label="",group=X2,color=chocolate];
+
+ node3Y1 [label="",group=X3,color=chocolate];
+
+ node4Y1 [label="",group=X4,color=chartreuse4];
+
+ node5Y1 [label="",group=X5,color=chartreuse4];
+
+ node6Y1 [label="",group=X6,color=chartreuse4];
+
+ node7Y1 [label="",group=X7,color=chartreuse4];
+
+ node8Y1 [label="",group=X8,color=chartreuse4];
+
+ node9Y1 [label="",group=X9,color=chartreuse4];
+
+ node10Y1 [label="",group=X10,color=bisque4];
+
+ node11Y1 [label="",group=X11,color=bisque4];
+
+ node12Y1 [label="",group=X12,color=bisque4];
+
+ node13Y1 [label="",group=X13,color=bisque4];
+
+ node14Y1 [label="",group=X14,color=chartreuse4];
+
+ node15Y1 [label="",group=X15,color=chartreuse4];
+
+ node16Y1 [label="",group=X16,color=chartreuse4];
+
+ node17Y1 [label="",group=X17,color=chartreuse4];
+
+ node18Y1 [label="",group=X18,color=chocolate];
+
+ node19Y1 [label="",group=X19,color=chocolate];
+
+ node20Y1 [label="",group=X20,color=chocolate];
+
+ node1Y2 [label="",group=X1,color=chocolate];
+
+ node2Y2 [label="",group=X2,color=chocolate];
+
+ node3Y2 [label="",group=X3,color=greenyellow];
+
+ node4Y2 [label="",group=X4,color=greenyellow];
+
+ node5Y2 [label="",group=X5,color=greenyellow];
+
+ node6Y2 [label="",group=X6,color=greenyellow];
+
+ node7Y2 [label="",group=X7,color=greenyellow];
+
+ node8Y2 [label="",group=X8,color=greenyellow];
+
+ node9Y2 [label="",group=X9,color=greenyellow];
+
+ node10Y2 [label="",group=X10,color=bisque4];
+
+ node11Y2 [label="",group=X11,color=bisque4];
+
+ node12Y2 [label="",group=X12,color=bisque4];
+
+ node13Y2 [label="",group=X13,color=bisque4];
+
+ node14Y2 [label="",group=X14,color=greenyellow];
+
+ node15Y2 [label="",group=X15,color=greenyellow];
+
+ node16Y2 [label="",group=X16,color=greenyellow];
+
+ node17Y2 [label="",group=X17,color=greenyellow];
+
+ node18Y2 [label="",group=X18,color=greenyellow];
+
+ node19Y2 [label="",group=X19,color=chocolate];
+
+ node20Y2 [label="",group=X20,color=chocolate];
+
+ node1Y3 [label="",group=X1,color=chocolate];
+
+ node2Y3 [label="",group=X2,color=greenyellow];
+
+ node3Y3 [label="",group=X3,color=greenyellow];
+
+ node4Y3 [label="",group=X4,color=greenyellow];
+
+ node5Y3 [label="",group=X5,color=greenyellow];
+
+ node6Y3 [label="",group=X6,color=greenyellow];
+
+ node7Y3 [label="",group=X7,color=greenyellow];
+
+ node8Y3 [label="",group=X8,color=greenyellow];
+
+ node9Y3 [label="",group=X9,color=greenyellow];
+
+ node10Y3 [label="",group=X10,color=bisque4];
+
+ node11Y3 [label="",group=X11,color=bisque4];
+
+ node12Y3 [label="",group=X12,color=bisque4];
+
+ node13Y3 [label="",group=X13,color=bisque4];
+
+ node14Y3 [label="",group=X14,color=greenyellow];
+
+ node15Y3 [label="",group=X15,color=greenyellow];
+
+ node16Y3 [label="",group=X16,color=greenyellow];
+
+ node17Y3 [label="",group=X17,color=greenyellow];
+
+ node18Y3 [label="",group=X18,color=greenyellow];
+
+ node19Y3 [label="",group=X19,color=greenyellow];
+
+ node20Y3 [label="",group=X20,color=chocolate];
+
+ node1Y4 [label="",group=X1,color=greenyellow];
+
+ node2Y4 [label="",group=X2,color=greenyellow];
+
+ node3Y4 [label="",group=X3,color=greenyellow];
+
+ node4Y4 [label="",group=X4,color=greenyellow];
+
+ node5Y4 [label="",group=X5,color=greenyellow];
+
+ node6Y4 [label="",group=X6,color=greenyellow];
+
+ node7Y4 [label="",group=X7,color=greenyellow];
+
+ node8Y4 [label="",group=X8,color=greenyellow];
+
+ node9Y4 [label="",group=X9,color=deepskyblue];
+
+ node10Y4 [label="",group=X10,color=bisque4];
+
+ node11Y4 [label="",group=X11,color=bisque4];
+
+ node12Y4 [label="",group=X12,color=bisque4];
+
+ node13Y4 [label="",group=X13,color=bisque4];
+
+ node14Y4 [label="",group=X14,color=deepskyblue];
+
+ node15Y4 [label="",group=X15,color=greenyellow];
+
+ node16Y4 [label="",group=X16,color=greenyellow];
+
+ node17Y4 [label="",group=X17,color=greenyellow];
+
+ node18Y4 [label="",group=X18,color=greenyellow];
+
+ node19Y4 [label="",group=X19,color=greenyellow];
+
+ node20Y4 [label="",group=X20,color=greenyellow];
+
+ node1Y5 [label="",group=X1,color=greenyellow];
+
+ node2Y5 [label="",group=X2,color=greenyellow];
+
+ node3Y5 [label="",group=X3,color=greenyellow];
+
+ node4Y5 [label="",group=X4,color=greenyellow];
+
+ node5Y5 [label="",group=X5,color=greenyellow];
+
+ node6Y5 [label="",group=X6,color=greenyellow];
+
+ node7Y5 [label="",group=X7,color=greenyellow];
+
+ node8Y5 [label="",group=X8,color=deepskyblue];
+
+ node9Y5 [label="",group=X9,color=deepskyblue];
+
+ node10Y5 [label="",group=X10,color=bisque4];
+
+ node11Y5 [label="",group=X11,color=bisque4];
+
+ node12Y5 [label="",group=X12,color=bisque4];
+
+ node13Y5 [label="",group=X13,color=bisque4];
+
+ node14Y5 [label="",group=X14,color=deepskyblue];
+
+ node15Y5 [label="",group=X15,color=deepskyblue];
+
+ node16Y5 [label="",group=X16,color=greenyellow];
+
+ node17Y5 [label="",group=X17,color=greenyellow];
+
+ node18Y5 [label="",group=X18,color=greenyellow];
+
+ node19Y5 [label="",group=X19,color=greenyellow];
+
+ node20Y5 [label="",group=X20,color=greenyellow];
+
+ node1Y6 [label="",group=X1,color=greenyellow];
+
+ node2Y6 [label="",group=X2,color=greenyellow];
+
+ node3Y6 [label="",group=X3,color=greenyellow];
+
+ node4Y6 [label="",group=X4,color=greenyellow];
+
+ node5Y6 [label="",group=X5,color=greenyellow];
+
+ node6Y6 [label="",group=X6,color=greenyellow];
+
+ node7Y6 [label="",group=X7,color=deepskyblue];
+
+ node8Y6 [label="",group=X8,color=deepskyblue];
+
+ node9Y6 [label="",group=X9,color=deepskyblue];
+
+ node10Y6 [label="",group=X10,color=bisque4];
+
+ node11Y6 [label="",group=X11,color=bisque4];
+
+ node12Y6 [label="",group=X12,color=bisque4];
+
+ node13Y6 [label="",group=X13,color=bisque4];
+
+ node14Y6 [label="",group=X14,color=deepskyblue];
+
+ node15Y6 [label="",group=X15,color=deepskyblue];
+
+ node16Y6 [label="",group=X16,color=deepskyblue];
+
+ node17Y6 [label="",group=X17,color=greenyellow];
+
+ node18Y6 [label="",group=X18,color=greenyellow];
+
+ node19Y6 [label="",group=X19,color=greenyellow];
+
+ node20Y6 [label="",group=X20,color=greenyellow];
+
+ node1Y7 [label="",group=X1,color=bisque4];
+
+ node2Y7 [label="",group=X2,color=bisque4];
+
+ node3Y7 [label="",group=X3,color=bisque4];
+
+ node4Y7 [label="",group=X4,color=bisque4];
+
+ node5Y7 [label="",group=X5,color=bisque4];
+
+ node6Y7 [label="",group=X6,color=bisque4];
+
+ node7Y7 [label="",group=X7,color=bisque4];
+
+ node8Y7 [label="",group=X8,color=bisque4];
+
+ node9Y7 [label="",group=X9,color=bisque4];
+
+ node10Y7 [label="",group=X10,color=bisque4];
+
+ node11Y7 [label="",group=X11,color=bisque4];
+
+ node12Y7 [label="",group=X12,color=bisque4];
+
+ node13Y7 [label="",group=X13,color=bisque4];
+
+ node14Y7 [label="",group=X14,color=bisque4];
+
+ node15Y7 [label="",group=X15,color=bisque4];
+
+ node16Y7 [label="",group=X16,color=bisque4];
+
+ node17Y7 [label="",group=X17,color=bisque4];
+
+ node18Y7 [label="",group=X18,color=bisque4];
+
+ node19Y7 [label="",group=X19,color=bisque4];
+
+ node20Y7 [label="",group=X20,color=bisque4];
+
+ node1Y8 [label="",group=X1,color=bisque4];
+
+ node2Y8 [label="",group=X2,color=bisque4];
+
+ node3Y8 [label="",group=X3,color=bisque4];
+
+ node4Y8 [label="",group=X4,color=bisque4];
+
+ node5Y8 [label="",group=X5,color=bisque4];
+
+ node6Y8 [label="",group=X6,color=bisque4];
+
+ node7Y8 [label="",group=X7,color=bisque4];
+
+ node8Y8 [label="",group=X8,color=bisque4];
+
+ node9Y8 [label="",group=X9,color=bisque4];
+
+ node10Y8 [label="",group=X10,color=bisque4];
+
+ node11Y8 [label="",group=X11,color=bisque4];
+
+ node12Y8 [label="",group=X12,color=bisque4];
+
+ node13Y8 [label="",group=X13,color=bisque4];
+
+ node14Y8 [label="",group=X14,color=bisque4];
+
+ node15Y8 [label="",group=X15,color=bisque4];
+
+ node16Y8 [label="",group=X16,color=bisque4];
+
+ node17Y8 [label="",group=X17,color=bisque4];
+
+ node18Y8 [label="",group=X18,color=bisque4];
+
+ node19Y8 [label="",group=X19,color=bisque4];
+
+ node20Y8 [label="",group=X20,color=bisque4];
+
+ node1Y9 [label="",group=X1,color=bisque4];
+
+ node2Y9 [label="",group=X2,color=bisque4];
+
+ node3Y9 [label="",group=X3,color=bisque4];
+
+ node4Y9 [label="",group=X4,color=bisque4];
+
+ node5Y9 [label="",group=X5,color=bisque4];
+
+ node6Y9 [label="",group=X6,color=bisque4];
+
+ node7Y9 [label="",group=X7,color=bisque4];
+
+ node8Y9 [label="",group=X8,color=bisque4];
+
+ node9Y9 [label="",group=X9,color=bisque4];
+
+ node10Y9 [label="",group=X10,color=bisque4];
+
+ node11Y9 [label="",group=X11,color=bisque4];
+
+ node12Y9 [label="",group=X12,color=bisque4];
+
+ node13Y9 [label="",group=X13,color=bisque4];
+
+ node14Y9 [label="",group=X14,color=bisque4];
+
+ node15Y9 [label="",group=X15,color=bisque4];
+
+ node16Y9 [label="",group=X16,color=bisque4];
+
+ node17Y9 [label="",group=X17,color=bisque4];
+
+ node18Y9 [label="",group=X18,color=bisque4];
+
+ node19Y9 [label="",group=X19,color=bisque4];
+
+ node20Y9 [label="",group=X20,color=bisque4];
+
+ node1Y10 [label="",group=X1,color=greenyellow];
+
+ node2Y10 [label="",group=X2,color=greenyellow];
+
+ node3Y10 [label="",group=X3,color=greenyellow];
+
+ node4Y10 [label="",group=X4,color=greenyellow];
+
+ node5Y10 [label="",group=X5,color=greenyellow];
+
+ node6Y10 [label="",group=X6,color=greenyellow];
+
+ node7Y10 [label="",group=X7,color=deepskyblue];
+
+ node8Y10 [label="",group=X8,color=deepskyblue];
+
+ node9Y10 [label="",group=X9,color=deepskyblue];
+
+ node10Y10 [label="",group=X10,color=bisque4];
+
+ node11Y10 [label="",group=X11,color=bisque4];
+
+ node12Y10 [label="",group=X12,color=bisque4];
+
+ node13Y10 [label="",group=X13,color=bisque4];
+
+ node14Y10 [label="",group=X14,color=deepskyblue];
+
+ node15Y10 [label="",group=X15,color=deepskyblue];
+
+ node16Y10 [label="",group=X16,color=deepskyblue];
+
+ node17Y10 [label="",group=X17,color=greenyellow];
+
+ node18Y10 [label="",group=X18,color=greenyellow];
+
+ node19Y10 [label="",group=X19,color=greenyellow];
+
+ node20Y10 [label="",group=X20,color=greenyellow];
+
+ node1Y11 [label="",group=X1,color=greenyellow];
+
+ node2Y11 [label="",group=X2,color=greenyellow];
+
+ node3Y11 [label="",group=X3,color=greenyellow];
+
+ node4Y11 [label="",group=X4,color=greenyellow];
+
+ node5Y11 [label="",group=X5,color=greenyellow];
+
+ node6Y11 [label="",group=X6,color=greenyellow];
+
+ node7Y11 [label="",group=X7,color=greenyellow];
+
+ node8Y11 [label="",group=X8,color=deepskyblue];
+
+ node9Y11 [label="",group=X9,color=deepskyblue];
+
+ node10Y11 [label="",group=X10,color=bisque4];
+
+ node11Y11 [label="",group=X11,color=bisque4];
+
+ node12Y11 [label="",group=X12,color=bisque4];
+
+ node13Y11 [label="",group=X13,color=bisque4];
+
+ node14Y11 [label="",group=X14,color=deepskyblue];
+
+ node15Y11 [label="",group=X15,color=deepskyblue];
+
+ node16Y11 [label="",group=X16,color=greenyellow];
+
+ node17Y11 [label="",group=X17,color=greenyellow];
+
+ node18Y11 [label="",group=X18,color=greenyellow];
+
+ node19Y11 [label="",group=X19,color=greenyellow];
+
+ node20Y11 [label="",group=X20,color=greenyellow];
+
+ node1Y12 [label="",group=X1,color=greenyellow];
+
+ node2Y12 [label="",group=X2,color=greenyellow];
+
+ node3Y12 [label="",group=X3,color=greenyellow];
+
+ node4Y12 [label="",group=X4,color=greenyellow];
+
+ node5Y12 [label="",group=X5,color=greenyellow];
+
+ node6Y12 [label="",group=X6,color=greenyellow];
+
+ node7Y12 [label="",group=X7,color=greenyellow];
+
+ node8Y12 [label="",group=X8,color=greenyellow];
+
+ node9Y12 [label="",group=X9,color=deepskyblue];
+
+ node10Y12 [label="",group=X10,color=bisque4];
+
+ node11Y12 [label="",group=X11,color=bisque4];
+
+ node12Y12 [label="",group=X12,color=bisque4];
+
+ node13Y12 [label="",group=X13,color=bisque4];
+
+ node14Y12 [label="",group=X14,color=deepskyblue];
+
+ node15Y12 [label="",group=X15,color=greenyellow];
+
+ node16Y12 [label="",group=X16,color=greenyellow];
+
+ node17Y12 [label="",group=X17,color=greenyellow];
+
+ node18Y12 [label="",group=X18,color=greenyellow];
+
+ node19Y12 [label="",group=X19,color=greenyellow];
+
+ node20Y12 [label="",group=X20,color=greenyellow];
+
+ node1Y13 [label="",group=X1,color=chocolate];
+
+ node2Y13 [label="",group=X2,color=greenyellow];
+
+ node3Y13 [label="",group=X3,color=greenyellow];
+
+ node4Y13 [label="",group=X4,color=greenyellow];
+
+ node5Y13 [label="",group=X5,color=greenyellow];
+
+ node6Y13 [label="",group=X6,color=greenyellow];
+
+ node7Y13 [label="",group=X7,color=greenyellow];
+
+ node8Y13 [label="",group=X8,color=greenyellow];
+
+ node9Y13 [label="",group=X9,color=greenyellow];
+
+ node10Y13 [label="",group=X10,color=bisque4];
+
+ node11Y13 [label="",group=X11,color=bisque4];
+
+ node12Y13 [label="",group=X12,color=bisque4];
+
+ node13Y13 [label="",group=X13,color=bisque4];
+
+ node14Y13 [label="",group=X14,color=greenyellow];
+
+ node15Y13 [label="",group=X15,color=greenyellow];
+
+ node16Y13 [label="",group=X16,color=greenyellow];
+
+ node17Y13 [label="",group=X17,color=greenyellow];
+
+ node18Y13 [label="",group=X18,color=greenyellow];
+
+ node19Y13 [label="",group=X19,color=greenyellow];
+
+ node20Y13 [label="",group=X20,color=chocolate];
+
+ node1Y14 [label="",group=X1,color=chocolate];
+
+ node2Y14 [label="",group=X2,color=chocolate];
+
+ node3Y14 [label="",group=X3,color=greenyellow];
+
+ node4Y14 [label="",group=X4,color=greenyellow];
+
+ node5Y14 [label="",group=X5,color=greenyellow];
+
+ node6Y14 [label="",group=X6,color=greenyellow];
+
+ node7Y14 [label="",group=X7,color=greenyellow];
+
+ node8Y14 [label="",group=X8,color=greenyellow];
+
+ node9Y14 [label="",group=X9,color=greenyellow];
+
+ node10Y14 [label="",group=X10,color=bisque4];
+
+ node11Y14 [label="",group=X11,color=bisque4];
+
+ node12Y14 [label="",group=X12,color=bisque4];
+
+ node13Y14 [label="",group=X13,color=bisque4];
+
+ node14Y14 [label="",group=X14,color=greenyellow];
+
+ node15Y14 [label="",group=X15,color=greenyellow];
+
+ node16Y14 [label="",group=X16,color=greenyellow];
+
+ node17Y14 [label="",group=X17,color=greenyellow];
+
+ node18Y14 [label="",group=X18,color=greenyellow];
+
+ node19Y14 [label="",group=X19,color=chocolate];
+
+ node20Y14 [label="",group=X20,color=chocolate];
+
+ node1Y15 [label="",group=X1,color=chocolate];
+
+ node2Y15 [label="",group=X2,color=chocolate];
+
+ node3Y15 [label="",group=X3,color=chocolate];
+
+ node4Y15 [label="",group=X4,color=chartreuse4];
+
+ node5Y15 [label="",group=X5,color=chartreuse4];
+
+ node6Y15 [label="",group=X6,color=chartreuse4];
+
+ node7Y15 [label="",group=X7,color=chartreuse4];
+
+ node8Y15 [label="",group=X8,color=chartreuse4];
+
+ node9Y15 [label="",group=X9,color=chartreuse4];
+
+ node10Y15 [label="",group=X10,color=bisque4];
+
+ node11Y15 [label="",group=X11,color=bisque4];
+
+ node12Y15 [label="",group=X12,color=bisque4];
+
+ node13Y15 [label="",group=X13,color=bisque4];
+
+ node14Y15 [label="",group=X14,color=chartreuse4];
+
+ node15Y15 [label="",group=X15,color=chartreuse4];
+
+ node16Y15 [label="",group=X16,color=chartreuse4];
+
+ node17Y15 [label="",group=X17,color=chartreuse4];
+
+ node18Y15 [label="",group=X18,color=chocolate];
+
+ node19Y15 [label="",group=X19,color=chocolate];
+
+ node20Y15 [label="",group=X20,color=chocolate];
+
+{rank=same;}
+
+{rank=same;node1Y1;node2Y1;node3Y1;node4Y1;node5Y1;node6Y1;node7Y1;node8Y1;node9Y1;node10Y1;node11Y1;node12Y1;node13Y1;node14Y1;node15Y1;node16Y1;node17Y1;node18Y1;node19Y1;node20Y1;}
+
+ node1Y1->node1Y2
+ node2Y1->node2Y2
+ node3Y1->node3Y2
+ node4Y1->node4Y2
+ node5Y1->node5Y2
+ node6Y1->node6Y2
+ node7Y1->node7Y2
+ node8Y1->node8Y2
+ node9Y1->node9Y2
+ node10Y1->node10Y2
+ node11Y1->node11Y2
+ node12Y1->node12Y2
+ node13Y1->node13Y2
+ node14Y1->node14Y2
+ node15Y1->node15Y2
+ node16Y1->node16Y2
+ node17Y1->node17Y2
+ node18Y1->node18Y2
+ node19Y1->node19Y2
+ node20Y1->node20Y2
+ node1Y1->node2Y1
+ node2Y1->node3Y1
+ node3Y1->node4Y1
+ node4Y1->node5Y1
+ node5Y1->node6Y1
+ node6Y1->node7Y1
+ node7Y1->node8Y1
+ node8Y1->node9Y1
+ node9Y1->node10Y1
+ node10Y1->node11Y1
+ node11Y1->node12Y1
+ node12Y1->node13Y1
+ node13Y1->node14Y1
+ node14Y1->node15Y1
+ node15Y1->node16Y1
+ node16Y1->node17Y1
+ node17Y1->node18Y1
+ node18Y1->node19Y1
+ node19Y1->node20Y1
+{rank=same;node1Y2;node2Y2;node3Y2;node4Y2;node5Y2;node6Y2;node7Y2;node8Y2;node9Y2;node10Y2;node11Y2;node12Y2;node13Y2;node14Y2;node15Y2;node16Y2;node17Y2;node18Y2;node19Y2;node20Y2;}
+
+ node1Y2->node1Y3
+ node2Y2->node2Y3
+ node3Y2->node3Y3
+ node4Y2->node4Y3
+ node5Y2->node5Y3
+ node6Y2->node6Y3
+ node7Y2->node7Y3
+ node8Y2->node8Y3
+ node9Y2->node9Y3
+ node10Y2->node10Y3
+ node11Y2->node11Y3
+ node12Y2->node12Y3
+ node13Y2->node13Y3
+ node14Y2->node14Y3
+ node15Y2->node15Y3
+ node16Y2->node16Y3
+ node17Y2->node17Y3
+ node18Y2->node18Y3
+ node19Y2->node19Y3
+ node20Y2->node20Y3
+ node1Y2->node2Y2
+ node2Y2->node3Y2
+ node3Y2->node4Y2
+ node4Y2->node5Y2
+ node5Y2->node6Y2
+ node6Y2->node7Y2
+ node7Y2->node8Y2
+ node8Y2->node9Y2
+ node9Y2->node10Y2
+ node10Y2->node11Y2
+ node11Y2->node12Y2
+ node12Y2->node13Y2
+ node13Y2->node14Y2
+ node14Y2->node15Y2
+ node15Y2->node16Y2
+ node16Y2->node17Y2
+ node17Y2->node18Y2
+ node18Y2->node19Y2
+ node19Y2->node20Y2
+{rank=same;node1Y3;node2Y3;node3Y3;node4Y3;node5Y3;node6Y3;node7Y3;node8Y3;node9Y3;node10Y3;node11Y3;node12Y3;node13Y3;node14Y3;node15Y3;node16Y3;node17Y3;node18Y3;node19Y3;node20Y3;}
+
+ node1Y3->node1Y4
+ node2Y3->node2Y4
+ node3Y3->node3Y4
+ node4Y3->node4Y4
+ node5Y3->node5Y4
+ node6Y3->node6Y4
+ node7Y3->node7Y4
+ node8Y3->node8Y4
+ node9Y3->node9Y4
+ node10Y3->node10Y4
+ node11Y3->node11Y4
+ node12Y3->node12Y4
+ node13Y3->node13Y4
+ node14Y3->node14Y4
+ node15Y3->node15Y4
+ node16Y3->node16Y4
+ node17Y3->node17Y4
+ node18Y3->node18Y4
+ node19Y3->node19Y4
+ node20Y3->node20Y4
+ node1Y3->node2Y3
+ node2Y3->node3Y3
+ node3Y3->node4Y3
+ node4Y3->node5Y3
+ node5Y3->node6Y3
+ node6Y3->node7Y3
+ node7Y3->node8Y3
+ node8Y3->node9Y3
+ node9Y3->node10Y3
+ node10Y3->node11Y3
+ node11Y3->node12Y3
+ node12Y3->node13Y3
+ node13Y3->node14Y3
+ node14Y3->node15Y3
+ node15Y3->node16Y3
+ node16Y3->node17Y3
+ node17Y3->node18Y3
+ node18Y3->node19Y3
+ node19Y3->node20Y3
+{rank=same;node1Y4;node2Y4;node3Y4;node4Y4;node5Y4;node6Y4;node7Y4;node8Y4;node9Y4;node10Y4;node11Y4;node12Y4;node13Y4;node14Y4;node15Y4;node16Y4;node17Y4;node18Y4;node19Y4;node20Y4;}
+
+ node1Y4->node1Y5
+ node2Y4->node2Y5
+ node3Y4->node3Y5
+ node4Y4->node4Y5
+ node5Y4->node5Y5
+ node6Y4->node6Y5
+ node7Y4->node7Y5
+ node8Y4->node8Y5
+ node9Y4->node9Y5
+ node10Y4->node10Y5
+ node11Y4->node11Y5
+ node12Y4->node12Y5
+ node13Y4->node13Y5
+ node14Y4->node14Y5
+ node15Y4->node15Y5
+ node16Y4->node16Y5
+ node17Y4->node17Y5
+ node18Y4->node18Y5
+ node19Y4->node19Y5
+ node20Y4->node20Y5
+ node1Y4->node2Y4
+ node2Y4->node3Y4
+ node3Y4->node4Y4
+ node4Y4->node5Y4
+ node5Y4->node6Y4
+ node6Y4->node7Y4
+ node7Y4->node8Y4
+ node8Y4->node9Y4
+ node9Y4->node10Y4
+ node10Y4->node11Y4
+ node11Y4->node12Y4
+ node12Y4->node13Y4
+ node13Y4->node14Y4
+ node14Y4->node15Y4
+ node15Y4->node16Y4
+ node16Y4->node17Y4
+ node17Y4->node18Y4
+ node18Y4->node19Y4
+ node19Y4->node20Y4
+{rank=same;node1Y5;node2Y5;node3Y5;node4Y5;node5Y5;node6Y5;node7Y5;node8Y5;node9Y5;node10Y5;node11Y5;node12Y5;node13Y5;node14Y5;node15Y5;node16Y5;node17Y5;node18Y5;node19Y5;node20Y5;}
+
+ node1Y5->node1Y6
+ node2Y5->node2Y6
+ node3Y5->node3Y6
+ node4Y5->node4Y6
+ node5Y5->node5Y6
+ node6Y5->node6Y6
+ node7Y5->node7Y6
+ node8Y5->node8Y6
+ node9Y5->node9Y6
+ node10Y5->node10Y6
+ node11Y5->node11Y6
+ node12Y5->node12Y6
+ node13Y5->node13Y6
+ node14Y5->node14Y6
+ node15Y5->node15Y6
+ node16Y5->node16Y6
+ node17Y5->node17Y6
+ node18Y5->node18Y6
+ node19Y5->node19Y6
+ node20Y5->node20Y6
+ node1Y5->node2Y5
+ node2Y5->node3Y5
+ node3Y5->node4Y5
+ node4Y5->node5Y5
+ node5Y5->node6Y5
+ node6Y5->node7Y5
+ node7Y5->node8Y5
+ node8Y5->node9Y5
+ node9Y5->node10Y5
+ node10Y5->node11Y5
+ node11Y5->node12Y5
+ node12Y5->node13Y5
+ node13Y5->node14Y5
+ node14Y5->node15Y5
+ node15Y5->node16Y5
+ node16Y5->node17Y5
+ node17Y5->node18Y5
+ node18Y5->node19Y5
+ node19Y5->node20Y5
+{rank=same;node1Y6;node2Y6;node3Y6;node4Y6;node5Y6;node6Y6;node7Y6;node8Y6;node9Y6;node10Y6;node11Y6;node12Y6;node13Y6;node14Y6;node15Y6;node16Y6;node17Y6;node18Y6;node19Y6;node20Y6;}
+
+ node1Y6->node1Y7
+ node2Y6->node2Y7
+ node3Y6->node3Y7
+ node4Y6->node4Y7
+ node5Y6->node5Y7
+ node6Y6->node6Y7
+ node7Y6->node7Y7
+ node8Y6->node8Y7
+ node9Y6->node9Y7
+ node10Y6->node10Y7
+ node11Y6->node11Y7
+ node12Y6->node12Y7
+ node13Y6->node13Y7
+ node14Y6->node14Y7
+ node15Y6->node15Y7
+ node16Y6->node16Y7
+ node17Y6->node17Y7
+ node18Y6->node18Y7
+ node19Y6->node19Y7
+ node20Y6->node20Y7
+ node1Y6->node2Y6
+ node2Y6->node3Y6
+ node3Y6->node4Y6
+ node4Y6->node5Y6
+ node5Y6->node6Y6
+ node6Y6->node7Y6
+ node7Y6->node8Y6
+ node8Y6->node9Y6
+ node9Y6->node10Y6
+ node10Y6->node11Y6
+ node11Y6->node12Y6
+ node12Y6->node13Y6
+ node13Y6->node14Y6
+ node14Y6->node15Y6
+ node15Y6->node16Y6
+ node16Y6->node17Y6
+ node17Y6->node18Y6
+ node18Y6->node19Y6
+ node19Y6->node20Y6
+{rank=same;node1Y7;node2Y7;node3Y7;node4Y7;node5Y7;node6Y7;node7Y7;node8Y7;node9Y7;node10Y7;node11Y7;node12Y7;node13Y7;node14Y7;node15Y7;node16Y7;node17Y7;node18Y7;node19Y7;node20Y7;}
+
+ node1Y7->node1Y8
+ node2Y7->node2Y8
+ node3Y7->node3Y8
+ node4Y7->node4Y8
+ node5Y7->node5Y8
+ node6Y7->node6Y8
+ node7Y7->node7Y8
+ node8Y7->node8Y8
+ node9Y7->node9Y8
+ node10Y7->node10Y8
+ node11Y7->node11Y8
+ node12Y7->node12Y8
+ node13Y7->node13Y8
+ node14Y7->node14Y8
+ node15Y7->node15Y8
+ node16Y7->node16Y8
+ node17Y7->node17Y8
+ node18Y7->node18Y8
+ node19Y7->node19Y8
+ node20Y7->node20Y8
+ node1Y7->node2Y7
+ node2Y7->node3Y7
+ node3Y7->node4Y7
+ node4Y7->node5Y7
+ node5Y7->node6Y7
+ node6Y7->node7Y7
+ node7Y7->node8Y7
+ node8Y7->node9Y7
+ node9Y7->node10Y7
+ node10Y7->node11Y7
+ node11Y7->node12Y7
+ node12Y7->node13Y7
+ node13Y7->node14Y7
+ node14Y7->node15Y7
+ node15Y7->node16Y7
+ node16Y7->node17Y7
+ node17Y7->node18Y7
+ node18Y7->node19Y7
+ node19Y7->node20Y7
+{rank=same;node1Y8;node2Y8;node3Y8;node4Y8;node5Y8;node6Y8;node7Y8;node8Y8;node9Y8;node10Y8;node11Y8;node12Y8;node13Y8;node14Y8;node15Y8;node16Y8;node17Y8;node18Y8;node19Y8;node20Y8;}
+
+ node1Y8->node1Y9
+ node2Y8->node2Y9
+ node3Y8->node3Y9
+ node4Y8->node4Y9
+ node5Y8->node5Y9
+ node6Y8->node6Y9
+ node7Y8->node7Y9
+ node8Y8->node8Y9
+ node9Y8->node9Y9
+ node10Y8->node10Y9
+ node11Y8->node11Y9
+ node12Y8->node12Y9
+ node13Y8->node13Y9
+ node14Y8->node14Y9
+ node15Y8->node15Y9
+ node16Y8->node16Y9
+ node17Y8->node17Y9
+ node18Y8->node18Y9
+ node19Y8->node19Y9
+ node20Y8->node20Y9
+ node1Y8->node2Y8
+ node2Y8->node3Y8
+ node3Y8->node4Y8
+ node4Y8->node5Y8
+ node5Y8->node6Y8
+ node6Y8->node7Y8
+ node7Y8->node8Y8
+ node8Y8->node9Y8
+ node9Y8->node10Y8
+ node10Y8->node11Y8
+ node11Y8->node12Y8
+ node12Y8->node13Y8
+ node13Y8->node14Y8
+ node14Y8->node15Y8
+ node15Y8->node16Y8
+ node16Y8->node17Y8
+ node17Y8->node18Y8
+ node18Y8->node19Y8
+ node19Y8->node20Y8
+{rank=same;node1Y9;node2Y9;node3Y9;node4Y9;node5Y9;node6Y9;node7Y9;node8Y9;node9Y9;node10Y9;node11Y9;node12Y9;node13Y9;node14Y9;node15Y9;node16Y9;node17Y9;node18Y9;node19Y9;node20Y9;}
+
+ node1Y9->node1Y10
+ node2Y9->node2Y10
+ node3Y9->node3Y10
+ node4Y9->node4Y10
+ node5Y9->node5Y10
+ node6Y9->node6Y10
+ node7Y9->node7Y10
+ node8Y9->node8Y10
+ node9Y9->node9Y10
+ node10Y9->node10Y10
+ node11Y9->node11Y10
+ node12Y9->node12Y10
+ node13Y9->node13Y10
+ node14Y9->node14Y10
+ node15Y9->node15Y10
+ node16Y9->node16Y10
+ node17Y9->node17Y10
+ node18Y9->node18Y10
+ node19Y9->node19Y10
+ node20Y9->node20Y10
+ node1Y9->node2Y9
+ node2Y9->node3Y9
+ node3Y9->node4Y9
+ node4Y9->node5Y9
+ node5Y9->node6Y9
+ node6Y9->node7Y9
+ node7Y9->node8Y9
+ node8Y9->node9Y9
+ node9Y9->node10Y9
+ node10Y9->node11Y9
+ node11Y9->node12Y9
+ node12Y9->node13Y9
+ node13Y9->node14Y9
+ node14Y9->node15Y9
+ node15Y9->node16Y9
+ node16Y9->node17Y9
+ node17Y9->node18Y9
+ node18Y9->node19Y9
+ node19Y9->node20Y9
+{rank=same;node1Y10;node2Y10;node3Y10;node4Y10;node5Y10;node6Y10;node7Y10;node8Y10;node9Y10;node10Y10;node11Y10;node12Y10;node13Y10;node14Y10;node15Y10;node16Y10;node17Y10;node18Y10;node19Y10;node20Y10;}
+
+ node1Y10->node1Y11
+ node2Y10->node2Y11
+ node3Y10->node3Y11
+ node4Y10->node4Y11
+ node5Y10->node5Y11
+ node6Y10->node6Y11
+ node7Y10->node7Y11
+ node8Y10->node8Y11
+ node9Y10->node9Y11
+ node10Y10->node10Y11
+ node11Y10->node11Y11
+ node12Y10->node12Y11
+ node13Y10->node13Y11
+ node14Y10->node14Y11
+ node15Y10->node15Y11
+ node16Y10->node16Y11
+ node17Y10->node17Y11
+ node18Y10->node18Y11
+ node19Y10->node19Y11
+ node20Y10->node20Y11
+ node1Y10->node2Y10
+ node2Y10->node3Y10
+ node3Y10->node4Y10
+ node4Y10->node5Y10
+ node5Y10->node6Y10
+ node6Y10->node7Y10
+ node7Y10->node8Y10
+ node8Y10->node9Y10
+ node9Y10->node10Y10
+ node10Y10->node11Y10
+ node11Y10->node12Y10
+ node12Y10->node13Y10
+ node13Y10->node14Y10
+ node14Y10->node15Y10
+ node15Y10->node16Y10
+ node16Y10->node17Y10
+ node17Y10->node18Y10
+ node18Y10->node19Y10
+ node19Y10->node20Y10
+{rank=same;node1Y11;node2Y11;node3Y11;node4Y11;node5Y11;node6Y11;node7Y11;node8Y11;node9Y11;node10Y11;node11Y11;node12Y11;node13Y11;node14Y11;node15Y11;node16Y11;node17Y11;node18Y11;node19Y11;node20Y11;}
+
+ node1Y11->node1Y12
+ node2Y11->node2Y12
+ node3Y11->node3Y12
+ node4Y11->node4Y12
+ node5Y11->node5Y12
+ node6Y11->node6Y12
+ node7Y11->node7Y12
+ node8Y11->node8Y12
+ node9Y11->node9Y12
+ node10Y11->node10Y12
+ node11Y11->node11Y12
+ node12Y11->node12Y12
+ node13Y11->node13Y12
+ node14Y11->node14Y12
+ node15Y11->node15Y12
+ node16Y11->node16Y12
+ node17Y11->node17Y12
+ node18Y11->node18Y12
+ node19Y11->node19Y12
+ node20Y11->node20Y12
+ node1Y11->node2Y11
+ node2Y11->node3Y11
+ node3Y11->node4Y11
+ node4Y11->node5Y11
+ node5Y11->node6Y11
+ node6Y11->node7Y11
+ node7Y11->node8Y11
+ node8Y11->node9Y11
+ node9Y11->node10Y11
+ node10Y11->node11Y11
+ node11Y11->node12Y11
+ node12Y11->node13Y11
+ node13Y11->node14Y11
+ node14Y11->node15Y11
+ node15Y11->node16Y11
+ node16Y11->node17Y11
+ node17Y11->node18Y11
+ node18Y11->node19Y11
+ node19Y11->node20Y11
+{rank=same;node1Y12;node2Y12;node3Y12;node4Y12;node5Y12;node6Y12;node7Y12;node8Y12;node9Y12;node10Y12;node11Y12;node12Y12;node13Y12;node14Y12;node15Y12;node16Y12;node17Y12;node18Y12;node19Y12;node20Y12;}
+
+ node1Y12->node1Y13
+ node2Y12->node2Y13
+ node3Y12->node3Y13
+ node4Y12->node4Y13
+ node5Y12->node5Y13
+ node6Y12->node6Y13
+ node7Y12->node7Y13
+ node8Y12->node8Y13
+ node9Y12->node9Y13
+ node10Y12->node10Y13
+ node11Y12->node11Y13
+ node12Y12->node12Y13
+ node13Y12->node13Y13
+ node14Y12->node14Y13
+ node15Y12->node15Y13
+ node16Y12->node16Y13
+ node17Y12->node17Y13
+ node18Y12->node18Y13
+ node19Y12->node19Y13
+ node20Y12->node20Y13
+ node1Y12->node2Y12
+ node2Y12->node3Y12
+ node3Y12->node4Y12
+ node4Y12->node5Y12
+ node5Y12->node6Y12
+ node6Y12->node7Y12
+ node7Y12->node8Y12
+ node8Y12->node9Y12
+ node9Y12->node10Y12
+ node10Y12->node11Y12
+ node11Y12->node12Y12
+ node12Y12->node13Y12
+ node13Y12->node14Y12
+ node14Y12->node15Y12
+ node15Y12->node16Y12
+ node16Y12->node17Y12
+ node17Y12->node18Y12
+ node18Y12->node19Y12
+ node19Y12->node20Y12
+{rank=same;node1Y13;node2Y13;node3Y13;node4Y13;node5Y13;node6Y13;node7Y13;node8Y13;node9Y13;node10Y13;node11Y13;node12Y13;node13Y13;node14Y13;node15Y13;node16Y13;node17Y13;node18Y13;node19Y13;node20Y13;}
+
+ node1Y13->node1Y14
+ node2Y13->node2Y14
+ node3Y13->node3Y14
+ node4Y13->node4Y14
+ node5Y13->node5Y14
+ node6Y13->node6Y14
+ node7Y13->node7Y14
+ node8Y13->node8Y14
+ node9Y13->node9Y14
+ node10Y13->node10Y14
+ node11Y13->node11Y14
+ node12Y13->node12Y14
+ node13Y13->node13Y14
+ node14Y13->node14Y14
+ node15Y13->node15Y14
+ node16Y13->node16Y14
+ node17Y13->node17Y14
+ node18Y13->node18Y14
+ node19Y13->node19Y14
+ node20Y13->node20Y14
+ node1Y13->node2Y13
+ node2Y13->node3Y13
+ node3Y13->node4Y13
+ node4Y13->node5Y13
+ node5Y13->node6Y13
+ node6Y13->node7Y13
+ node7Y13->node8Y13
+ node8Y13->node9Y13
+ node9Y13->node10Y13
+ node10Y13->node11Y13
+ node11Y13->node12Y13
+ node12Y13->node13Y13
+ node13Y13->node14Y13
+ node14Y13->node15Y13
+ node15Y13->node16Y13
+ node16Y13->node17Y13
+ node17Y13->node18Y13
+ node18Y13->node19Y13
+ node19Y13->node20Y13
+{rank=same;node1Y14;node2Y14;node3Y14;node4Y14;node5Y14;node6Y14;node7Y14;node8Y14;node9Y14;node10Y14;node11Y14;node12Y14;node13Y14;node14Y14;node15Y14;node16Y14;node17Y14;node18Y14;node19Y14;node20Y14;}
+
+ node1Y14->node1Y15
+ node2Y14->node2Y15
+ node3Y14->node3Y15
+ node4Y14->node4Y15
+ node5Y14->node5Y15
+ node6Y14->node6Y15
+ node7Y14->node7Y15
+ node8Y14->node8Y15
+ node9Y14->node9Y15
+ node10Y14->node10Y15
+ node11Y14->node11Y15
+ node12Y14->node12Y15
+ node13Y14->node13Y15
+ node14Y14->node14Y15
+ node15Y14->node15Y15
+ node16Y14->node16Y15
+ node17Y14->node17Y15
+ node18Y14->node18Y15
+ node19Y14->node19Y15
+ node20Y14->node20Y15
+ node1Y14->node2Y14
+ node2Y14->node3Y14
+ node3Y14->node4Y14
+ node4Y14->node5Y14
+ node5Y14->node6Y14
+ node6Y14->node7Y14
+ node7Y14->node8Y14
+ node8Y14->node9Y14
+ node9Y14->node10Y14
+ node10Y14->node11Y14
+ node11Y14->node12Y14
+ node12Y14->node13Y14
+ node13Y14->node14Y14
+ node14Y14->node15Y14
+ node15Y14->node16Y14
+ node16Y14->node17Y14
+ node17Y14->node18Y14
+ node18Y14->node19Y14
+ node19Y14->node20Y14
+{rank=same;node1Y15;node2Y15;node3Y15;node4Y15;node5Y15;node6Y15;node7Y15;node8Y15;node9Y15;node10Y15;node11Y15;node12Y15;node13Y15;node14Y15;node15Y15;node16Y15;node17Y15;node18Y15;node19Y15;node20Y15;}
+
+ node1Y15->node2Y15
+ node2Y15->node3Y15
+ node3Y15->node4Y15
+ node4Y15->node5Y15
+ node5Y15->node6Y15
+ node6Y15->node7Y15
+ node7Y15->node8Y15
+ node8Y15->node9Y15
+ node9Y15->node10Y15
+ node10Y15->node11Y15
+ node11Y15->node12Y15
+ node12Y15->node13Y15
+ node13Y15->node14Y15
+ node14Y15->node15Y15
+ node15Y15->node16Y15
+ node16Y15->node17Y15
+ node17Y15->node18Y15
+ node18Y15->node19Y15
+ node19Y15->node20Y15}
